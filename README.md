@@ -8,7 +8,7 @@ Student name: Duong Vu
 
 Student CWID: 885909879
 
-Email: amao4t@csu.fullerton.edu
+Student email: amao4t@csu.fullerton.edu
 
 # Instructions
 
