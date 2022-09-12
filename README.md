@@ -4,11 +4,11 @@ My submission for CPSC 131, Section 00, Lab Week 1
 
 # My Information
 
-Student name: Duong Vu
+name: DUONG VU
 
-Student CWID: 885909879
+CWID: 885909879
 
-Student email: amao4t@csu.fullerton.edu
+Email: amao4t@csu.fullerton.edu
 
 # Instructions
 
